@@ -1,4 +1,4 @@
-# Ultra Mega Moderate Blocklist
+# Ultra Mega Blocklist
 Optimized version of Ultra Mega BlockLists
 
 **Entries:** 1252 domains/hosts - 1252 compressed hosts - 1252 compressed domains
