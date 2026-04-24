@@ -1,6 +1,6 @@
-# Title: Ultra Mega Full Blocklist DnsMasq
-# Description: Optimized version of Ultra Mega BlockLists
 #
+# Description: Optimized version of Ultra Mega BlockLists
+# Title: Ultra Mega Full Blocklist DnsMasq
 local=/1001dessous.com/
 local=/14words.com/
 local=/1girl1bowl.com/
@@ -396,6 +396,7 @@ local=/fr.simone-perele.com/
 local=/france-avenir.com/
 local=/franceavenir.free.fr/
 local=/frank-rennicke.de/
+local=/free-palestine.carrd.co/
 local=/free-palestine.co.uk/
 local=/free4klivewallpaper.com/
 local=/free4wallpaper.com/
@@ -438,6 +439,7 @@ local=/geishastore.com/
 local=/gentlemenlingerie.com/
 local=/getbonzi.com/
 local=/getwalls.io/
+local=/gewerkschafter4gaza.de/
 local=/giantcheesetaco.com/
 local=/gigatorrent.xyz/
 local=/gioeqwkmp.blob.core.windows.net/
@@ -712,6 +714,7 @@ local=/mythongstore.com/
 local=/n-a-f.com/
 local=/n0404.com/
 local=/naawp.com/
+local=/nanyangweekly.com/
 local=/narodnatribuna.info/
 local=/nastila-balloons.com/
 local=/nastygal.com/
@@ -916,6 +919,7 @@ local=/renhadmasandbab.info/
 local=/reserve-5a846.firebaseio.com/
 local=/resist.com/
 local=/resistance.com/
+local=/rettetgaza.de/
 local=/revilo-oliver.com/
 local=/revisionism.com/
 local=/revisionists.com/
@@ -977,6 +981,7 @@ local=/sexymenunderwear.com/
 local=/sexyshop.vn/
 local=/sexyshopbeograd.in.rs/
 local=/sexysweb.com/
+local=/sgtimes.com/
 local=/sh0.it/
 local=/sheerswim.com/
 local=/shockgore.com/
@@ -990,6 +995,10 @@ local=/signforgaza.org/
 local=/sigrdrifa.com/
 local=/silentstress.wtf/
 local=/silk-lace.com/
+local=/singapore24hour.com/
+local=/singaporebuzz.com/
+local=/singaporeheadline.com/
+local=/singaporeweek.com/
 local=/site88.8m.com/
 local=/skinheadxx.tsx.org/
 local=/slein.tk/
@@ -1058,6 +1067,7 @@ local=/tegustasexshop.com.ar/
 local=/textstudio.com/
 local=/tezenis.com/
 local=/thaisclaro.com/
+local=/the-palestinian-side.vercel.app/
 local=/theannoyingsite.com/
 local=/theharityhild.buzz/
 local=/thehomo.org/
