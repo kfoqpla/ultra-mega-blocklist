@@ -1,15 +1,15 @@
 # Ultra Mega Blocklist
 Optimized version of Ultra Mega BlockLists
 
-**Entries:** 1252 domains/hosts - 1252 compressed hosts - 1252 compressed domains
+**Entries:** 1254 domains/hosts - 1254 compressed hosts - 1254 compressed domains
 
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [Small](small) | 1252 | Ultra Mega Small |
-| [Basic](basic) | 1252 | Ultra Mega Basic |
-| [Moderate](moderate) | 1252  | Ultra Mega Moderate |
-| [Full](full) | 1252 | Ultra Mega Full |
+| [Small](small) | 1254 | Ultra Mega Small |
+| [Basic](basic) | 1254 | Ultra Mega Basic |
+| [Moderate](moderate) | 1254  | Ultra Mega Moderate |
+| [Full](full) | 1254 | Ultra Mega Full |
 
 ### :red_circle: **Small* - **Small protection** <a name="small"></a>
 
